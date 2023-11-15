@@ -2,7 +2,7 @@
     "Products": [
         {
             "coverImage": "../public//images/VioletHomePage.png",
-            "productForsell": [
+            "productForSell": [
                 {
                     "category": "NEW ARRIVALS",
                     "description": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR SIT AMET, CONSECTETUR",
