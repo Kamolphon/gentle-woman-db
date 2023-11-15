@@ -1,14 +1,14 @@
 {
     "Products": [
         {
-            "coverImage": "../",
+            "coverImage": "../public//images/VioletHomePage.png",
             "productForsell": [
                 {
                     "category": "NEW ARRIVALS",
                     "description": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR SIT AMET, CONSECTETUR",
                     "items": [
                         {
-                            "image": "..",
+                            "image": "../public/images/My Heartbeat Micro Tote Bag - GBC105.png",
                             "itemDesc": "My Heartbeat Micro Tote Bag - GBC105",
                             "allSize": [
                                 {
@@ -27,7 +27,7 @@
                             "price": 790
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/My Heartbeat Longsleeve Bodysuit - GTT281.png",
                             "itemDesc": "My Heartbeat Longsleeve Bodysuit - GTT281",
                             "allSize": [
                                 {
@@ -46,7 +46,7 @@
                             "price": 1790
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/My Heartbeat Mini Skirt - GTK001.png",
                             "itemDesc": "My Heartbeat Mini Skirt - GTK001",
                             "allSize": [
                                 {
@@ -65,7 +65,7 @@
                             "price": 2590
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/My Heartbeat Longsleeve Top - GTT280.png",
                             "itemDesc": "My Heartbeat Longsleeve Top - GTT280",
                             "allSize": [
                                 {
@@ -90,19 +90,19 @@
                     "description": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR SIT AMET, CONSECTETUR  CONSECTETUR SIT AMET, CONSECTETUR",
                     "items": [
                         {
-                            "image": "..",
+                            "image": "../public/images/Gray bra.png",
                             "itemDesc":"No Description"
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/Crop jeans.png",
                             "itemDesc":"No Description"
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/Socks.png",
                             "itemDesc":"No Description"
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/Urban Stride Tote Bag - GNB268.png",
                             "itemDesc": "Urban Stride Tote Bag - GNB268",
                             "allSize": [
                                 {
@@ -121,7 +121,7 @@
                             "price": 790
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/GW Winterglaze T-shirt - GTT516.png",
                             "itemDesc": "GW Winterglaze T-shirt - GTT516",
                             "allSize": [
                                 {
@@ -140,7 +140,7 @@
                             "price": 790
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/Calming Winter Whispering T-shirt - GTT534.png",
                             "itemDesc": "Calming Winter Whispering T-shirt - GTT534",
                             "allSize": [
                                 {
@@ -159,7 +159,7 @@
                             "price": 790
                         },
                         {
-                            "image": "..",
+                            "image": "../public/images/Urban Stride Micro Tote Bag - GNB269.png",
                             "itemDesc": "Urban Stride Micro Tote Bag - GNB269",
                             "allSize": [
                                 {
@@ -183,15 +183,15 @@
                     "description": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR SIT AMET, CONSECTETUR  CONSECTETUR SIT AMET, CONSECTETUR",
                     "items": [
                             {
-                                "image": "..",
+                                "image": "../public/images/Kao Supassara.png",
                                 "itemDesc":"No Description"
                             },
                             {
-                                "image": "..",
+                                "image": "../public/images/WomenWithIron.png",
                                 "itemDesc":"No Description"
                             },
                             {
-                                "image": "..",
+                                "image": "../public/images/Teoy Jarin.png",
                                 "itemDesc":"No Description"
                             }
                     ]
