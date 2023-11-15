@@ -1,7 +1,7 @@
 {
     "Products": [
         {
-            "coverImage": "../public//images/VioletHomePage.png",
+            "coverImage": "VioletHomePage.png",
             "productForSell": [
                 {
                     "category": "NEW ARRIVALS",
@@ -9,7 +9,7 @@
                     "items": [
                         {   
                             "productId":1,
-                            "image": "../public/images/My Heartbeat Micro Tote Bag - GBC105.png",
+                            "image": "My Heartbeat Micro Tote Bag - GBC105.png",
                             "itemDesc": "My Heartbeat Micro Tote Bag - GBC105",
                             "allSize": [
                                 {
@@ -29,7 +29,7 @@
                         },
                         {
                             "productId":2,
-                            "image": "../public/images/My Heartbeat Longsleeve Bodysuit - GTT281.png",
+                            "image": "My Heartbeat Longsleeve Bodysuit - GTT281.png",
                             "itemDesc": "My Heartbeat Longsleeve Bodysuit - GTT281",
                             "allSize": [
                                 {
@@ -49,7 +49,7 @@
                         },
                         {
                             "productId":3,
-                            "image": "../public/images/My Heartbeat Mini Skirt - GTK001.png",
+                            "image": "My Heartbeat Mini Skirt - GTK001.png",
                             "itemDesc": "My Heartbeat Mini Skirt - GTK001",
                             "allSize": [
                                 {
@@ -69,7 +69,7 @@
                         },
                         {
                             "productId":4,
-                            "image": "../public/images/My Heartbeat Longsleeve Top - GTT280.png",
+                            "image": "My Heartbeat Longsleeve Top - GTT280.png",
                             "itemDesc": "My Heartbeat Longsleeve Top - GTT280",
                             "allSize": [
                                 {
@@ -95,22 +95,22 @@
                     "items": [
                         {
                             "productId":5,
-                            "image": "../public/images/Gray bra.png",
+                            "image": "Gray bra.png",
                             "itemDesc":"No Description"
                         },
                         {
                             "productId":6,
-                            "image": "../public/images/Crop jeans.png",
+                            "image": "Crop jeans.png",
                             "itemDesc":"No Description"
                         },
                         {
                             "productId":7,
-                            "image": "../public/images/Socks.png",
+                            "image": "Socks.png",
                             "itemDesc":"No Description"
                         },
                         {
                             "productId":8,
-                            "image": "../public/images/Urban Stride Tote Bag - GNB268.png",
+                            "image": "Urban Stride Tote Bag - GNB268.png",
                             "itemDesc": "Urban Stride Tote Bag - GNB268",
                             "allSize": [
                                 {
@@ -130,7 +130,7 @@
                         },
                         {
                             "productId":9,
-                            "image": "../public/images/GW Winterglaze T-shirt - GTT516.png",
+                            "image": "GW Winterglaze T-shirt - GTT516.png",
                             "itemDesc": "GW Winterglaze T-shirt - GTT516",
                             "allSize": [
                                 {
@@ -150,7 +150,7 @@
                         },
                         {
                             "productId":10,
-                            "image": "../public/images/Calming Winter Whispering T-shirt - GTT534.png",
+                            "image": "Calming Winter Whispering T-shirt - GTT534.png",
                             "itemDesc": "Calming Winter Whispering T-shirt - GTT534",
                             "allSize": [
                                 {
@@ -170,7 +170,7 @@
                         },
                         {
                             "productId":11,
-                            "image": "../public/images/Urban Stride Micro Tote Bag - GNB269.png",
+                            "image": "Urban Stride Micro Tote Bag - GNB269.png",
                             "itemDesc": "Urban Stride Micro Tote Bag - GNB269",
                             "allSize": [
                                 {
@@ -195,17 +195,17 @@
                     "items": [
                             {
                                 "productId":12,
-                                "image": "../public/images/Kao Supassara.png",
+                                "image": "Kao Supassara.png",
                                 "itemDesc":"No Description"
                             },
                             {
                                 "productId":13,
-                                "image": "../public/images/WomenWithIron.png",
+                                "image": "WomenWithIron.png",
                                 "itemDesc":"No Description"
                             },
                             {
                                 "productId":14,
-                                "image": "../public/images/Teoy Jarin.png",
+                                "image": "Teoy Jarin.png",
                                 "itemDesc":"No Description"
                             }
                     ]
