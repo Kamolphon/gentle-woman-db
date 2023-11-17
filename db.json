@@ -2,6 +2,16 @@
     "Products": [
         {
             "coverImage": "VioletHomePage.png",
+            "discountCode" : [{
+                "code": "GW20P",
+                "discountPercent":20
+            },{
+                "code": "GW30P",
+                "discountPercent":30
+            },{
+                "code": "GW65P",
+                "discountPercent":65
+            }],
             "productForSell": [
                 {
                     "category": "NEW ARRIVALS",
