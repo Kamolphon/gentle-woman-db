@@ -24,15 +24,18 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 }
                             ],
                             "price": 790
@@ -44,15 +47,18 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 0
+                                    "stock": 0,
+                                    "selected": false
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 }
                             ],
                             "price": 1790
@@ -64,15 +70,18 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 0
+                                    "stock": 0,
+                                    "selected": false
                                 }
                             ],
                             "price": 2590
@@ -84,15 +93,18 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 }
                             ],
                             "price": 1590
@@ -125,15 +137,18 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 }
                             ],
                             "price": 790
@@ -145,15 +160,18 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 }
                             ],
                             "price": 790
@@ -165,15 +183,18 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 }
                             ],
                             "price": 790
@@ -185,15 +206,18 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 100
+                                    "stock": 100,
+                                    "selected": false
                                 }
                             ],
                             "price": 790
