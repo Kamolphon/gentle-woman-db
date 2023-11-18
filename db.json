@@ -125,18 +125,15 @@
                             "allSize": [
                                 {
                                     "size": "S",
-                                    "stock": 100,
-                                    "selected": false
+                                    "stock": 100
                                 },
                                 {
                                     "size": "M",
-                                    "stock": 100,
-                                    "selected": false
+                                    "stock": 100
                                 },
                                 {
                                     "size": "L",
-                                    "stock": 100,
-                                    "selected": false
+                                    "stock": 100
                                 }
                             ],
                             "price": 790
